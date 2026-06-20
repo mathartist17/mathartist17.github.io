@@ -25,3 +25,7 @@ defaults:
       type: "pages"
     values:
       layout: "single"
+
+# Search Settings
+search: true
+search_provider: "lunr" # This is the default high-performance engine

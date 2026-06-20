@@ -29,3 +29,10 @@ defaults:
 # Search Settings
 search: true
 search_provider: "lunr" # This is the default high-performance engine
+
+# Author Profile Settings
+author:
+  name   : "Your Full Name"
+  bio    : "Software Developer, blogger, and tech enthusiast."
+  email  : "25f1002053@ds.study.iitm.ac.in"
+  location: "Chennai, India"

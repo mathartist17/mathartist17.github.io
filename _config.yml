@@ -4,7 +4,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 title: Mathartist17's homepage
-description: Bookmark this to keep an eye on my project updates!
+description: Bookmark this to keep an eye on my project updates! Write to me at 25f1002053@ds.study.iitm.ac.in
 
 # Site Settings
 locale: "en-US"
@@ -32,7 +32,7 @@ search_provider: "lunr" # This is the default high-performance engine
 
 # Author Profile Settings
 author:
-  name   : "Your Full Name"
+  name   : "mathartist17"
   bio    : "Software Developer, blogger, and tech enthusiast."
   email  : "25f1002053@ds.study.iitm.ac.in"
   location: "Chennai, India"
